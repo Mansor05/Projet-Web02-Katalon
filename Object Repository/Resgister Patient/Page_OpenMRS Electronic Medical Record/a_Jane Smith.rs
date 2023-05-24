@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Jane Smith</name>
+   <tag></tag>
+   <elementGuidId>0328dd8a-e75f-44d9-a65a-1f9659382b04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ng-scope.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='relationship']/p[2]/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f3169bf9-f3e6-48c8-9057-2b203e6775f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>843d0256-ad5b-466b-b184-a7aa55c8de7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>bind-html-unsafe</name>
+      <type>Main</type>
+      <value>match.label | typeaheadHighlight:query</value>
+      <webElementGuid>9a8a7609-a3b8-47d3-ab19-17d275cb2518</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-scope ng-binding</value>
+      <webElementGuid>abf15bc9-91c2-4e5e-b7a1-484fbe87de08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jane Smith</value>
+      <webElementGuid>cf8fad40-6a6d-4037-be2c-e3aa869021fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;relationship&quot;)/p[@class=&quot;left&quot;]/ul[@class=&quot;typeahead dropdown-menu ng-isolate-scope&quot;]/li[@class=&quot;ng-scope active&quot;]/a[@class=&quot;ng-scope ng-binding&quot;]</value>
+      <webElementGuid>86506068-f401-4120-8e49-44282c89ade9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='relationship']/p[2]/ul/li/a</value>
+      <webElementGuid>40fb7206-1e15-4cbe-b61c-d032d651fb7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Who is the patient related to?'])[1]/following::a[1]</value>
+      <webElementGuid>15267279-9955-48be-a83b-87d4d304ba87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Relatives'])[2]/following::a[1]</value>
+      <webElementGuid>4cb19dbf-f062-43bd-896f-0e3e813e3551</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jane']/parent::*</value>
+      <webElementGuid>db38d509-2bd1-485c-9707-a8ac8c13eaf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]/ul/li/a</value>
+      <webElementGuid>29823a3e-57a0-45b4-9650-9573353fa806</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Jane Smith' or . = 'Jane Smith')]</value>
+      <webElementGuid>65bc03af-ba48-4da6-b529-57abe6ca651f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
