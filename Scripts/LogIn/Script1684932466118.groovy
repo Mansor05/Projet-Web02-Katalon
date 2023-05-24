@@ -29,5 +29,8 @@ WebUI.click(findTestObject('Object Repository/Login-Logout/Page_Login/li_Inpatie
 
 WebUI.click(findTestObject('Object Repository/Login-Logout/Page_Login/input_Registration Desk_loginButton'))
 
-WebUI.verifyElementPresent(findTestObject('Page_Home/h4_Logged in as Super User (admin) at Inpat_a64580'), 0)
+WebUI.verifyElementPresent(findTestObject('Login-Logout/Page_Login/Page_Home/h4_Logged in as Super User (admin) at Inpatient Ward'), 
+    0)
+
+WebUI.click(findTestObject('Login-Logout/Page_Login/Page_Home/h4_Logged in as Super User (admin) at Inpatient Ward'))
 
